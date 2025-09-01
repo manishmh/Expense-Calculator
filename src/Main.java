@@ -12,6 +12,7 @@ public class Main {
             System.out.println("i = " + i);
             System.out.println("I learned git/github");
             System.out.println("second");
+            System.out.println("I like manish kumar");
 
         }
     }
